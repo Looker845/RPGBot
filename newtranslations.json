@@ -3,156 +3,192 @@
     "fr": "Impossible de supprimer plus de 100 messages.",
     "de": "Benutzer hat keinen auswählbaren Charakter",
     "ru": "Нельзя удалить более 100 сообщений!"
+    "es": "¡No se puede eliminar más de 100 mensajes!",
   },
   "{} has no characters to display": {
     "fr": "{} n'a aucun personnage à afficher",
     "de": "Keine Charaktere anzeigbar",
     "ru": "{} не имеет персонажей"
+    "es": "{} no tiene personajes para mostrar.",
   },
   "No characters to display": {
     "fr": "Aucun personnage à afficher",
     "de": "Keine Charaktere anzeigbar",
     "ru": "Нет персонажей для показа"
+    "es": "No hay personajes para mostrar",
   },
 
   "Character {} does not exist!": {
     "fr": "Le personnage {} n'existe pas",
     "de": "Charakter {} existiert nicht",
     "ru": "Персонаж {} не существует"
+    "es": "El personaje {} no existe",
   },
   "Name": {
     "fr": "Nom",
     "de": "Name",
     "ru": "Имя" 
+    "es": "Nombre",
   },
   "Owner": {
     "fr": "Propriétaire",
     "de": "Eigenschaften",
     "ru": "Владелец"
+    "es": "Dueño",
   },
   "Level": {
     "fr": "Niveau",
     "de": "Ebene",
     "ru": "Уровень"
+    "es": "Nivel",
   },
   "Empty": {
     "fr": "Vide",
     "de": "Leere",
     "ru": "Пусто"
+    "es": "Vacío"
   },
   "Team": {
     "fr": "Équipe",
     "de": "Ausrüstung",
     "ru": "Команда"
+    "es": "Equipo",
   },
   "Additional Info": {
     "fr": "Informations supplémentaires",
     "de": "Zusätzliche Informationen",
     "ru" : "Дополнительная информация"
+    "es": "Información adicional",
   },
   "Only Bot Mods/Bot Admins may make characters for other players!": {
     "fr": "Il faut etre `Bot Mod` ou `Bot Admin` pour créer un personnage pour les autres",
     "ru": "Только Bot Mods/Bot Admins может делать персонажей для других игроков"
+    "es": "¡Solo Bot Mods/Bot Admins pueden hacer personajes por otros jugadores!",
   },
   "A character with this name already exists!": {
     "fr": "Un personnage a déjà ce nom",
     "ru": "Персонаж с таким именем уже существует"
+    "es": "¡Otro personaje ya tiene este nombre!",
   },
   "Describe the character (Relevant character sheet) (Say `done` when you're done describing)": {
     "fr": "Décrivez le personnage (Fiche associée du personnage) (Tapez `done` quand vous avez fini)", 
     "ru": " Опишите персонажа (Внешность, характер) (Скажите 'done' , когда закончите описание)"
+    "es": "Describe el personaje (Cosas relevantes) (Escribe `done` cuando hayas terminado de describirlo",
   },
   "What level is the character?": {
     "fr": "Quel est le niveau du personnage ?",
     "ru": "Какого уровня выш персонаж?"
+    "es": "¿Cuál es el nivel del personaje?",
   },
   "Any additional info? (Add a character image using the image keyword. Formats use regular syntax e.g. `image: http://image.com/image.jpg, hair_color: blond, nickname: Kevin` (Separate keys with commas or newlines)": {
     "fr": "Des informations supplémentaires ? (Ajouter une image au personnage avec le mot-clé `image`, comme ceci : `image: http://image.com/image.jpg, cheveux: bruns` (Separer les mot-clés avec des virgules ou des retours à la ligne)",
     "ru": "Дополнительна информация.(Добавьте персонажу картинку используя команды: 'image: http://image.com/image.jpg, hair_color:Темные волосы,nickname:Кевин' (Разделяйте команды запятыми)"
+    "es": "¿Alguna información adicional? (Agrega una imagen del personaje usando la palabra clave de image. Los formatos usan sintaxis regular por ejemplo: `image: http://image.com/image.jpg, hair_color: Rubio, nickname: José` (Separa las palabras claves con comas o comillas)",
   },
   "Cancelling!": {
     "fr": "Commande annulée !",
     "ru": "Закрыто!"
+    "es": "¡Cancelando!",
   },
   "Skipping!": {
     "fr": "Étape sautée !",
     "ru": "Пропущено!"
+    "es": "¡Salteando!"
   },
   "Character created! rp!team addmember to add Pokemon (optional) to your character's team!": {
     "fr": "Personnage créé ! Tapez `rp!team addmember` pour ajouter des Pokemons (optionel) à votre équipe !",
     "ru": "Персонаж создан! Если хотите добавить персонажа в команду, используете rp!team addmember"
+    "es": "¡Personaje creado! Escribe `rp!team addmember` para añadir pokemones (opcional) a tu equipo de tu personaje.",
   },
   "That character doesn't exist!": {
     "fr": "Ce personnage n'existe pas !",
     "ru": "Персонаж не существует!"
+    "es": "¡Este personaje no existe!",
   },
   "You do not own this character!": {
     "fr": "Vous n'êtes pas le propriétaire de ce personnage !",
     "ru": "Вы не владелец этого персонажа!"
+    "es": "¡No posees este personaje",
   },
   "Character deleted": {
     "fr": "Personnage supprimé",
     "ru": "Персонаж удален"
+    "es": "Personaje eliminado.",
   },
   "Invalid formatting! Try again": {
     "fr": "Syntaxe invalide !",
     "ru": "Не правильный формат, попробуй снова"
+    "es": "Formato inválido, intenta otra vez.",
   },
   "That is not a valid item! Try again": {
     "fr": "Cet item n'existe pas !",
     "ru": "Этот предмет не действителен! Попробуй еще"
+    "es": "¡Ese no es un objeto válido! Intenta otra vez.",
   },
   "Character edited!": {
     "fr": "Personnage modifié",
     "ru": "Персонаж изменен!"
+    "es": "Personaje editado.",
   },
   "{} has {} dollars": {
     "fr": "{} a {} dollars",
     "ru": "{} имеет {} dollars"
+    "es": "{} tiene {} dólares",
   },
   "Balances changed": {
     "fr": "Solde changé",
     "ru": "Баланс изменен"
+    "es": "Balances modificados.",
   },
   "Money given": {
     "fr": "Argent donné",
     "ru": "Деньги выданы"
+    "es": "Dinero regalado.",
   },
   "Successfully paid {} dollars to {}": {
     "fr": "Payé {} dollars à {} avec succès",
     "ru": "Успешно выплачено {} dollars для{}"
+    "es": "Has pagado {} dólares a {}.",
   },
   "\u27A1 to see the next page\n\u2B05 to go back\n\u274C to exit": {
     "fr": "\n        \u27A1 pour voir la page suivante\n        \u2B05 pour retourner\n        \u274C pour quitter\n        ",
     "ru": "\n        \u27A1 переход на следующую страницу\n        \u2B05 возврат\n        \u274C выход\n        "
+    "es": "\n        \u27A1 para ver la página siguiente\n        \u2B05 para volver hacia atrás\n        \u274C para salir\n        ",
   },
   "No items on the market to display.": {
     "fr": "Aucun item sur le marché",
     "ru": "Нет предметов в магазине для отображения."
+    "es": "No hay objetos en el mercado para mostrar.",
   },
   "Player Market": {
     "fr": "Marché des joueurs",
     "ru": "Игровой магазин"
+    "es": "Mercado del jugador",
   },
   "ID": {
     "fr": "ID",
     "ru": "ID"
+    "es": "ID",
   },
   "COST": {
     "fr": "COÛT",
     "ru": "Стоимость"
+    "es": "Coste",
   },
   "NUMBER": {
     "fr": "NOMBRE",
     "ru": "Число"
+    "es": "Número",
   },
   "ITEM": {
     "fr": "ITEM",
     "ru": "Предмет"
+    "es": "Objeto",
   },
   "SELLER": {
     "fr": "VENDEUR",
     "ru": "Продавец"
+    "es": "Vendedor",
   },
   "Timed out! Try again": {
     "fr": "Fin du temps ! Réessayez",
