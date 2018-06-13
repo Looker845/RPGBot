@@ -148,7 +148,7 @@
   "Successfully paid {} dollars to {}": {
     "fr": "Payé {} dollars à {} avec succès",
     "ru": "Успешно выплачено {} dollars для{}",
-    "es": "Pago de {} dollars a {} satisfactorio"
+    "es": "Se ha pagado {} dollars a {} satisfactoriamente"
   },
   "\u27A1 to see the next page\n\u2B05 to go back\n\u274C to exit": {
     "fr": "\n        \u27A1 pour voir la page suivante\n        \u2B05 pour retourner\n        \u274C pour quitter\n        ",
@@ -193,12 +193,12 @@
   "Timed out! Try again": {
     "fr": "Fin du temps ! Réessayez",
     "ru": "Время вышло! Начни заново",
-    "es": "¡Tiempo agotado! Vualva a intentarlo"
+    "es": "¡Tiempo agotado! Vuelva a intentarlo"
   },
   "You don't have enough of these to sell!": {
     "fr": "Vous n'en avez pas assez pour en vendre !",
     "ru": "У вас не хватает предметов для продажи",
-    "es": "No tienes suficientes items de estos para vender"
+    "es": "No tienes suficientes objetos para vender"
   },
   "Item listed!": {
     "fr": "Item listé !",
@@ -263,175 +263,216 @@
   "Lotto entered!": {
     "fr": "Vous êtes entré dans la loterie !",
     "ru": "Кто-то присоединился к лото!",
-    "es": "Has entrado a la lotría"
+    "es": "Has entrado a la lotería"
   },
   "You're already in this lotto!": {
     "fr": "Vous êtes déjà dans cette loterie !",
     "ru": "Вы уже в этом лото!",
-    "es": ""
+    "es": "Ya te encuentras en esta lotería actualmente"
   },
   "This server has no lotto by that name! See rp!lotto": {
     "fr": "Ce serveur n'a aucune loterie avec ce nom ! Pour voir la liste des loteries, tapez rp!lotto",
     "ru": "На этом сервере нет лото с таким именем! Напиши rp!lotto"
+    "es": "Este servidor no tiene una lotería con ese nombre, revisa rp!lotto"
   },
   "This server has no lottos currently running!": {
     "fr": "Il n'y a aucune loterie en cours sur ce serveur !",
     "ru": "На этом сервере нет активных лото!"
+    "es": "Este servidor no tiene loterías activas actualmente"
   },
   "No items in the shop to display.": {
     "fr": "Il n'y a aucun item dans le shop",
     "ru": "Нет предметов в магазине"
+    "es": "No hay objetos para mostrar en la tienda"
   },
   "Server Shop": {
     "fr": "Shop du serveur",
     "ru": "Серверный магазин"
+    "es": "Tienda del servidor"
   },
   "Say 'cancel' to cancel or 'skip' to skip a step": {
     "fr": "Tapez 'cancel' pour annuler, ou 'skip' pour sauter une étape",
     "ru": "Напиши 'cancel' для закрытия или 'skip', чтобы пропустить шаг"
+    "es": "Di 'cancel' para cancelar o 'skip' para saltear un paso"
   },
   "How much should this be buyable for? 0 for not buyable": {
     "fr": "Pour combien devrait-il être acheté ? (0 pour non-achetable)",
     "ru": "За сколько это можно купить? 0 если нельзя купить"
+    "es": "¿Por cuánto debería ser comprado este objeto? Coloca 0 para no poder ser comprado"
   },
   "That is not a valid number!": {
     "fr": "Ce n'est pas un nombre valide !",
     "ru": "Это не число!"
+    "es": "Eso no es un número válido"
   },
   "How much should this be sellable for? 0 for not sellable": {
     "fr": "Pour combien devrait-il être vendu ? (0 pour non-vendable)",
     "ru": "За сколько эт можно продать? 0 если не продаваемый"
+    "es": "¿Por cuánto debería ser vendido este objeto? Coloca 0 para no poder ser vendido"
   },
   "What is the minimum level a user must be for this item? 0 for no minimum": {
     "fr": "Quel est le niveau minimum pour acheter cet item ? 0 pour aucun minimum",
     "ru": "Каков минимальный уровень для покупки предмета? 0 без ограничения"
+    "es": "¿Cual es el nivel mínimo para ser utilizado este objeto? Coloca 0 para que no haya un nivel mínimo"
   },
   "You can't make an item with 0 for every value! Cancelling, try again.": {
     "fr": "Vous ne pouvez pas créer un item avec 0 pour chaque valeur ! Annulation, réessayez.",
     "ru": "Вы не можете установить везде 0!Перезагрузка, попробуйте с начала!"
+    "es": "No puedes hacer que un objeto con 0 de cada valor, cancelando, intenta de nuevo"
   },
   "Timed out! Cancelling": {
     "fr": "Fin du temps ! Annulation",
     "ru": "Время вышло!закрываю"
+    "es": "Tiempo acabado, cancelando"
   },
   "Guild shop updated": {
     "fr": "Shop actualisée",
     "ru": "Магазин гильдии обновлен"
+    "es": "Tienda de los clanes actualizada"
   },
   "That item isn't listed!": {
     "fr": "Cet item n'est pas listé !",
     "ru": "Этот предмет не указан!"
+    "es": "Ese objeto no esta enlistado"
   },
   "Successfully removed item": {
     "fr": "L'item a éte supprimé avec succès",
     "ru": "Предмет успешно удален"
+    "es": "Objeto removido sastifactoriamente"
   },
   "This item cannot be bought!": {
     "fr": "Cet item ne peut pas être acheté !",
     "ru": "Этот предмет не может быть куплен"
+    "es": "Este objeto no puede ser comprado"
   },
   "You aren't high enough level for this item!": {
     "fr": "Vous n'êtes pas à un niveau assez élevé !",
     "ru": "У вас не хватает уровня для покупки этого предмета!"
+    "es": "No tienes el nivel suficiente para utilizar este objeto"
   },
   "You can't afford this many!": {
     "fr": "Vous ne pouvez pas en acheter autant !",
     "ru": "Вам не хватает денег для покупки!"
+    "es": "No puedes pagar esta cantidad"
   },
   "Successfully bought {} {}s": {
     "fr": "Vous avez acheté {} {}s avec succès !",
     "ru": "Успешно куплено {} {}s!"
+    "es": "Has comprado satisfactoriamente {} {}s"
   },
   "This item cannot be sold!": {
     "fr": "Cet item ne peut pas être vendu",
     "ru": "Этот предмет не может быть продан!"
+    "es": "Este objeto no puede ser vendido"
   },
   "You don't have enough to sell": {
     "fr": "Vous n'avez pas assez à vendre",
     "ru": "У вас не хватает предметов для продажи!"
+    "es": "No tienes lo suficiente para vender"
   },
   "Successfully sold {} {}s": {
     "fr": "Vous avez vendu {} {}s",
     "ru": "Успешно продано {} {}s"
+    "es": "Has vendido sastifactoriamente {} {}s"
   },
   "This channel already has a bid going!": {
     "fr": "Une enchère est déjà en cours sur ce channel !"
+    "es": "Este canal tiene una puja activa actualmente"
   },
   "You do not have x{} {}!": {
     "fr": "Vous n'avez pas x{} {} !",
     "ru": "У вас нет x{} {}!"
+    "es": "No tienes x{} {}"
   },
   "{} Has started a bid for x{} {} starting at {} dollars\nBid runs for 60 seconds `rp!bid` to place a bid!": {
     "fr": "{} a commencé une enchère pour x{} {}, commençant à {} dollars\nL'enchère dure 60 secondes, tapez `rp!bid` enchérir !",
     "ru": "{} запустил ставку для x{} {}, начиная с x{} {}\nBid напиши 'rp!bid' , что бы сделать ставку!"
+    "es": "{} ha empezado una puja por x{} {} empezando desde {} dollars\nLa puja comienza en 60 segundos coloca `rp!bid` para poner una puja."
   },
   "Bid over!": {
     "fr": "L'enchère est finie!",
     "ru": "Ставка закончена!"
+    "es": "Puja finalizada"
   },
   "{} won the bid for {} dollars!": {
     "fr": "{} a gagné l'enchère pour {} dollars",
     "ru": "{} выйграл ставку ценой в {} dollars"
+    "es": "{} ganó la puja por {} dollars"
   },
   "Nobody bid and had enough money to pay for it!": {
     "fr": "Personne n'a enchéri et n'a pu se l'acheter !",
     "ru": "Никто не предлагал и ни укого нет денег, чтобы заплатить за это!"
+    "es": "Ninguna apuesta ha tenido dinero suficiente para pagarla"
   },
   "User does not have a guild!": {
     "fr": "L'utilisateur n'a pas de guilde !",
     "ru": "Пользованель не имеет гильдий"
+    "es": "Éste usuario no tiene clan"
   },
   "That guild doesn't exist here!": {
     "fr": "Cette guilde n'existe pas ici !",
     "ru": "Такой гильдии не существует!"
+    "es": "Ese clan no existe aquí"
   },
   "\nAnd {} more...": {
     "fr": "\nEt {} plus...",
     "ru": "\nИ {} далее..."
+    "es": "\ny {} más..."
   },
   "This guild doesn't have a description": {
     "fr": "Cette guilde n'a pas de description !",
     "ru": "У этой гильдии нет описания!"
+    "es": "Éste clan no tiene ninguna descripción"
   },
   "Open": {
     "fr": "Ouvert",
     "ru": "Открыто"
+    "es": "Abierto"
   },
   "Bank Balance": {
     "fr": "Solde Bancaire",
     "ru": "Денежный счет"
+    "es": "Balance bancario"
   },
   "Members": {
     "fr": "Membres",
     "ru": "Члены"
+    "es": "Miembros"
   },
   "Items": {
     "fr": "Items",
     "ru": "Предметы"
+    "es": "Objetos"
   },
   "None": {
     "fr": "Aucun",
     "ru": "Никто"
+    "es": "Ninguno"
   },
   "No guilds to display.": {
     "fr": "Aucune guilde à afficher.",
     "ru": "Гильдии отсутствуют"
+    "es": "No hay clanes para mostrar"
   },
   "Server Guilds": {
     "fr": "Guildes du serveur",
     "ru": "Гильдии сервера"
+    "es": "Clanes de los servidores"
   },
   "Owner: {}\nMembers: {}\nOpen: {}": {
     "fr": "Propriétaire : {}\nMembres : {}\nOuvert : {}",
     "ru": "Владелец: {}\nЧленов: {}\nОткрыто: {}"
+    "es": "Dueño: {}\nMiembros: {}\nAbierto: {}"
   },
   "You're already in a guild! Leave this guild to create a new one": {
     "fr": "Vous êtes déjà dans une guilde ! Quittez votre guilde pour en créer une nouvelle !",
     "ru": "Вы уже в гильдии! Покиньте гильдию, чтобы создать новую"
+    "es": "Ya te encuentras en un clan, abandona este clan para crear uno nuevo"
   },
   "A guild with this name already exists!": {
     "fr": "Une guilde avec ce nom existe déjà !",
     "ru": "Гильдия с таким именем уже существует!"
+    "es": "Un clan ya poseé éste nombre"
   },
   "You already own a guild!": {
     "fr": "Vous avez déjà une guilde !",
